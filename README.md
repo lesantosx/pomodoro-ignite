@@ -5,7 +5,10 @@
 <h1>:computer: Technologies</h1>
 
 :pushpin: <b>FRONT-END</b>
-- <a href="https://reactjs.org">React</a> 
+- <a href="https://vite.dev">Vite</a> 
+- <a href="https://reactjs.org">React</a>
+- <a href="https://www.react-hook-form.com">React Hook Form</a>
+- <a href="https://reactrouter.com/en/main">React Router</a> 
 - <a href="https://www.typescriptlang.org">TypeScript</a>
 - <a href="https://styled-components.com">Styled Components</a>
 
